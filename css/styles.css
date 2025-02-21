@@ -1,0 +1,152 @@
+@import url(variables.css);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    width: 3911px;
+    height: 1440px;
+}
+
+.div_header{
+    width: 1440px;
+    height: 141px;
+}
+
+.div_icons{
+    width: 1800px;
+    height: 96px;
+    display: flex;
+}
+
+.div_whiteBox{
+    background-color: white;
+    width: 298px;
+    height: 96px;
+    border-radius: 0px 50px 50px 0px;
+    margin-top: 31px;
+    margin-bottom: 14px;
+    align-items: flex-start;
+}
+
+.div_icons span{
+    font-size: 48px;
+    font-family: "RobotoCondensed-Regular";
+    margin-top: 21px;
+    margin-bottom: 29px;
+    display: flex;
+    margin-right: 108px;
+    margin-left: 38px;
+}
+
+.img_aqua{
+    width: 46px;
+    height: 45px;
+    margin-left: 195px;
+    margin-top: -28%;
+    margin-bottom: 27px;
+    margin-left: 160px;
+    display: flex;
+    position: relative;
+}
+
+.img_moon{
+    display: flex;
+    width: 35px;
+    height: 35px;
+    margin-left: 1300px;
+    margin-bottom: 3809px;
+    margin-top: -46px;
+}
+
+.img_sun{
+    display: flex;
+    width: 40px;
+    height: 40px;
+    margin-left: 1400px;
+    margin-top: 20px;
+}
+
+.nav_menu{
+    width: 732px;
+    height: 38px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 354px;
+    margin-right: 354px;
+    margin-top: -60px;
+    margin-bottom: 23px;
+}
+
+.nav_menu a{
+    font-size: 24px;
+    text-decoration: none;
+    color: white;
+    font-family: "RobotoCondensed-Bold";
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.div_crae{
+    width: 707px;
+    height: 391px;
+    margin-left: 100px;
+    margin-right: 633px;
+    margin-top: 60px;
+}
+
+.div_cards{
+    width: 405.12;
+    height: 432.07;
+    margin-top: -400px;
+    margin-left: 842px;
+}
+
+.div_creative{
+    width: 707px;
+    height: 71px;
+    color: white;
+    font-family: "RobotoCondensed-Regular";
+    font-size: 56.4px;
+    margin-top: -80px;
+    margin-left: 110px;
+}
+
+.div_creativeText{
+    width: 685px;
+    height: 91px;
+    color: white;
+    font-size: 26px;
+    font-family: "RobotoCondensed-Regular";
+    margin-top: 20px;
+    margin-left: 120px;
+}
+
+.div_socialMedia{
+    width: 82px;
+    height: 218px;
+    margin-left: 1337px;
+    margin-top: -260px;
+}
+
+.div_buyButton{
+    margin-top: -70px;
+    margin-left: 1000px;
+}
+
+.div_howPlay{
+    width: 654px;
+    height: 258px;
+    margin-left: 350px;
+    margin-top: 500px;
+}
+
+.div_howPlay h1{
+    font-size: 64px;
+    font-family: "RobotoCondensed-Bold";
+    color: white;
+}
+    
